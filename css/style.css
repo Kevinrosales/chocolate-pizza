@@ -1,0 +1,32 @@
+h1 {
+  font-family: 'Dancing Script', cursive;
+}
+
+#social {
+  float: right;
+  margin: .1em;
+}
+
+#social li {
+  float: left;
+  margin-left: .1em;
+}
+
+#social-two {
+  float: right;
+  margin: .1em;
+}
+
+#social-two li {
+  float: left;
+  margin-left: 1em;
+}
+
+#social-three {
+  float: right;
+}
+
+#social-three li {
+  float: left;
+  margin: .1em;
+}
