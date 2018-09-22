@@ -1,0 +1,80 @@
+html {
+  margin-left: 10em;
+  margin-right: 10em;
+  margin-top: 2em;
+  margin-bottom: 5em;
+}
+
+/* #headertext {
+display: inline-block;
+} */
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2em;
+  display: inline-block;
+  text-align: center;
+}
+
+#logo {
+display: inline-block;
+}
+
+#print {
+  float: right;
+}
+
+#social {
+  float: right;
+  margin: .1em;
+}
+
+#social li {
+  float: left;
+  margin-left: .1em;
+}
+
+#social-two {
+  float: right;
+  margin: .1em;
+}
+
+#social-two li {
+  float: left;
+  margin-left: 1em;
+}
+
+#social-three {
+  float: right;
+}
+
+#social-three li {
+  float: left;
+  margin: .1em;
+}
+
+#recipe {
+  text-indent: 20px;
+  color: grey;
+  line-height: 1.5em;
+
+}
+
+#recipetwo  {
+  text-indent: 20px;
+  color: grey;
+  line-height: 1.5em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+#copyright  {
+  color: rgb(175, 170, 170);
+  text-align: center;
+  border-width: px;
+}
+
+#footerphoto {
+  display: block;
+  margin: auto;
+}
